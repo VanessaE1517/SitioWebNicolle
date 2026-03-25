@@ -1,0 +1,19 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    transition: background-color 0.5s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f190c979;
+}
+
+#contenedor{
+    font-family:'Segoe UI', 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 2);
+}
+
